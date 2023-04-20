@@ -1,0 +1,11 @@
+# Arquivos gerados pelo TypeScript
+*.js
+*.js.map
+
+# Dependências instaladas com npm ou Yarn
+node_modules/
+package-lock.json
+yarn.lock
+
+# Arquivos gerados pelo VS Code
+.vscode/
